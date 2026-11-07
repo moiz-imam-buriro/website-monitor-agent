@@ -1,0 +1,21 @@
+# API + scheduler
+fastapi>=0.115
+uvicorn[standard]>=0.30
+apscheduler>=3.10,<4
+pydantic-settings>=2.4
+email-validator>=2.2
+pyjwt>=2.8
+sqlmodel>=0.0.22
+psycopg2-binary>=2.9.10
+
+# Monitoring checks
+httpx>=0.27
+beautifulsoup4>=4.12
+dnspython>=2.6
+
+# LangChain agent (change the provider package later if you use another LLM)
+langchain>=1.0
+langchain-groq>=0.3
+
+# Dev
+pytest>=8.0
