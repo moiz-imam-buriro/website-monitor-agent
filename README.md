@@ -6,7 +6,6 @@ An AI agent that watches your website around the clock. When something breaks, i
 The demo runs on a free host that sleeps when idle, so the first load can take about a minute. Demo access is available on request: [moizimamburiro@gmail.com].
 
 ![Dashboard](docs/screenshots/overview.png)
-![Email](docs/screenshots/email.png)
 
 ## Why I built it
 
